@@ -1,0 +1,13 @@
+.container-fluid {
+	border: 5px;
+	border-color: black;
+	height: 100vh;
+}
+
+#backgroundimg{
+
+	max-width: 1400px;
+	width: 100%;
+	margin:auto;
+
+}
